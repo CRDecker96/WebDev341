@@ -4,7 +4,7 @@ Feb. 20th, 2017
 
 ##This weeks lesson:
   - This week I created a new repository so I could publish my first web page.
-  - This week I learned html vocabulary and structure of creating bodies (<b></b>), headings (<h></h>), and how to use line breaks (<br    />).
+  - This week I learned html vocabulary and structure of creating bodies, headings, and how to use line breaks.
   - Other sections touched on the basics of Doc typing, tags, brackets, and how to comment.
 
 ##Struggles/Accomplishments:
