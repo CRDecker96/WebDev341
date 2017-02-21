@@ -1,6 +1,6 @@
 #Week 3 Home Work Review
 Cody R. Decker
-FEb. 20th, 2017
+Feb. 20th, 2017
 
 ##This weeks lesson:
   - This week I created a new repository so I could publish my first web page.
