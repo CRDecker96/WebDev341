@@ -1,0 +1,96 @@
+
+
+header {
+background-color: white;
+height: 30%;
+outline:Dotted;
+outline-style: solid;
+outline-width: 10px;
+outline-color: Pink;
+outline-offset: -190%;
+}
+.toptitle {
+font-size: 60px;
+color: LightSkyBlue;
+font-family: cursive;
+text-align: center;
+}
+
+body{
+background-color:LightBlue;
+height: 100%;
+}
+
+
+
+.cupcake {
+  src: url('cupcake.JPEG');
+}
+
+.menu-container{
+  background-color: Gray;
+  float: left;
+  width: 20%;
+  min-width: 200px;
+  font-family: sans-serif;
+}
+.main-container{
+  background-color: #846644;
+  float: left;
+  width: 79%;
+  min-width: 400px;
+  height: 1000px;
+  font-family:cursive,serif;
+  font-style: normal;
+  color: Pink;
+  font-size: 200%;
+  font-weight: 100;
+  font-variant: small-caps;
+
+}
+
+
+
+
+
+.buttondrop {
+    background-color: SkyBlue;
+    color:#846644;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.buttondrop:hover .buttondrop {
+    display: block;
+    background-color: DeepSkyBlue;
+}
+
+
+.sidemenu-item  {
+    float:left;
+    width: 30%
+    display: block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #846644;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.show {display:block;}
