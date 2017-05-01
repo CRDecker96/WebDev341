@@ -1,0 +1,34 @@
+.head {
+text-align: center;
+font-size: 75px;
+font style: Bold;
+font weight: 300%;
+font-family: serif, Georgia;
+letter-spacing: 1px;
+}
+
+body {
+  background-color: LightGreen;
+}
+
+.undertitle{
+  text-align: left;
+  font-size: 40px;
+  font style: bold;
+  font weight: 300%;
+  font-family: serif, Georgia;
+  font-size-adjust: auto;
+  font-variant: small-caps;
+}
+
+.article {
+  font-color:white;
+  text-align: Left;
+  font-size: 26px;
+  font style: normal;
+  font weight: 100%;
+  font-family: serif, Georgia;
+  font-size-adjust: auto;
+  font-variant: small-caps;
+
+}
