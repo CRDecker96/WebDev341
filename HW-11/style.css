@@ -1,0 +1,40 @@
+body{
+  background-color:black;
+}
+
+.head {
+  float: left;
+  color: white;
+  font-size: 200%;
+  font-family: fantasy;
+}
+
+.undertext {
+  float:left;
+  color:white;
+  font-size: 50%;
+  font-family: fantasy;
+  font-variant: small-caps;
+
+}
+
+.logo-container{
+  float: left, 30%;
+  width: 200px;
+  height: 20px ;
+  outline-style: solid;
+  outline-offset: 10px;
+  outline-color: SkyBlue;
+  display: block;
+}
+
+.textcontainer{
+  float:right,69%;
+  height: Window;
+  color:black;
+  background-color: white;
+  font-style: italic;
+  font-weight: 100%;
+  font-variant:small-caps;
+
+}
