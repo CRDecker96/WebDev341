@@ -1,0 +1,83 @@
+body{
+  background-color: Black;
+}
+
+.title{
+  float: center;
+  text-align: center;
+  width: 110%;
+  height: 200%;
+  background-color: lightgreen;
+  color: #644419;
+  font-size: 300%;
+  font-family:fantasy;
+  font-style: bold,20px;
+  font-weight: lighter;
+  letter-spacing: 10px;
+  outline-color: Tan;
+  outline-style: double;
+  outline-offset: 3px;
+  outline-width: 5px;
+  padding: 2px;
+}
+img {
+    float:right;
+    border: 2px solid Tan;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50%;
+    height: 50%;
+  }
+.text-container{
+  float: left;
+  width: 69%;
+  height: 80%;
+  background-color:darkgreen;
+  padding: 5px;
+  color:tan;
+  font-size: 200%;
+  font-style: normal;
+  font-family: fantasy;
+  font-weight: lighter;
+  font-variant: small-caps;
+  outline-color: tan;
+  outline-style: double;
+  outline-offset: 3px;
+  outline-width: 5px;
+  margin-left: 100px;
+
+}
+
+.side-container{
+  float:center;
+  width:window;
+  height: 120%;
+  background-color: darkgreen;
+  color:#644419;
+  font-size: 200%;
+  letter-spacing:2px;
+  font-weight: lighter;
+  font-family: fantasy;
+  padding: 10px;
+  text-align: center;
+  letter-spacing: 10px;
+  outline-color: tan;
+  outline-style: double;
+  outline-offset: 3px;
+  outline-width: 5px;
+}
+
+
+
+
+li-home{
+  display: inline;
+  background: lightGreen;
+  padding: 10px;
+
+}
+
+li-home:hover {
+    background-color:Tan ;
+    color: lightGreen;
+}

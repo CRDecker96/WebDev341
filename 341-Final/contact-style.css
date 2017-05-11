@@ -1,0 +1,118 @@
+body{
+  background-color: Black;
+
+}
+
+.title-contact{
+  float: center,100%;
+  text-align: center;
+  width: window;
+  height: 200%;
+  background-color: lightgreen;
+  color: #644419;
+  font-size: 300%;
+  font-family:fantasy;
+  font-style: bold,20px;
+  font-weight: lighter;
+  letter-spacing: 10px;
+  outline-color: Tan;
+  outline-style: double;
+  outline-offset: 3px;
+  outline-width: 5px;
+
+
+}
+.text-container-contact{
+  float:center;
+  width: window;
+  height: 200%;
+  background-color:darkgreen;
+  color:tan;
+  font-size: 200%;
+  font-style: normal;
+  font-family: fantasy;
+  font-weight: lighter;
+  font-variant: small-caps;
+  outline-style: solid;
+  outline-color: Tan;
+  outline-style: double;
+  outline-offset: 3px;
+  outline-width: 5px;
+  padding: 3px;
+
+}
+
+.side-container-contact{
+
+  float:center;
+  width:window;
+  height: 120%;
+  background-color: lightgreen;
+  color:#644419;
+  font-size: 200%;
+  letter-spacing:2px;
+  font-weight: lighter;
+  font-family: fantasy;
+  padding: 10px;
+  text-align: center;
+  letter-spacing: 10px;
+  outline-color: Tan;
+  outline-style: double;
+  outline-offset: 3px;
+  outline-width: 5px;
+
+}
+
+li-contact{
+  display: inline;
+  background: lightGreen;
+  padding: 10px;
+
+}
+
+li-contact:hover {
+    background-color:Tan ;
+    color: darkgreen;
+}
+
+
+.contact-info-title{
+  float:left;
+  font-size: 180%;
+  font-style: normal;
+  font-family: fantasy;
+  font-variant: small-caps;
+  color: darkgreen;
+}
+
+
+.contact-info1{
+  float: auto;
+  font-size: 100%;
+  font-style: normal;
+  font-family: sans-serif,fantasy;
+  font-variant: small-caps;
+  color:tan;
+  background-color: Darkgreen;
+  outline-color: Tan;
+  outline-style: solid;
+  outline-offset: 1px;
+  outline-width: 5px;
+  letter-spacing: 2px;
+  padding: 2px;
+}
+
+.contact-info2{
+  float: auto;
+  font-size: 100%;
+  font-style: normal;
+  font-family: sans-serif,fantasy;
+  font-variant: small-caps;
+  color:tan;
+  background-color: Darkgreen;
+  outline-color: Tan;
+  outline-style: solid;
+  outline-offset: 1px;
+  outline-width: 5px;
+  letter-spacing: 2px;
+  padding: 2px;
