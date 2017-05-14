@@ -1,0 +1,13 @@
+body{
+  background-color:Darkorchid;
+}
+
+.title{
+  float: center;
+  font-size: 200%;
+  font-family: cursive;
+  color:Lightyellow;
+  height: 30%;
+  width: window;
+
+}

@@ -1,0 +1,27 @@
+body{
+  background-color:DarkOrchid;
+  border: soild;
+  border-color:lightyellow;
+  border-width: thick,8px;
+}
+
+.title{
+  float: center;
+  font-size: 300%;
+  font-family: cursive;
+  color:Lightyellow;
+  height: 30%;
+  width: window;
+  background-color:black;
+}
+
+.vid{
+  height:40%;
+  width:40%;
+  border: solid;
+  border-width: thick,4px;
+  border-color: lightyellow;
+  flex-shrink:50%;
+  float:center;
+
+}
